@@ -83,3 +83,5 @@ const date = document.getElementById("date");
         month.innerHTML =allmonths[today.getMonth()];
         year.innerHTML =today.getFullYear();
 ```
+## 🔗 Social Media Links
+[![instagram](https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fadityamishras%2F)](https://www.instagram.com/adityamishras/)
