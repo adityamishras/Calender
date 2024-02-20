@@ -1,5 +1,4 @@
 // this the html code for creating calender structure
-<body>
   <div class="hero">
         <div class="calender"> 
             <div class="left">
@@ -12,4 +11,3 @@
             </div>
         </div>
     </div>
-</body>
