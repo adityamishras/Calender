@@ -83,10 +83,12 @@ const date = document.getElementById("date");
         month.innerHTML =allmonths[today.getMonth()];
         year.innerHTML =today.getFullYear();
 ```
-## 🔗 Social Media Links
-[![instagram](https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fadityamishras%2F)](https://www.instagram.com/adityamishras/)
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/adityamishras/Calender/assets/136791974/51dc512e-9ccc-4042-bddc-20f2e3c51f18)
 
-![Screenshot 2024-06-10 110823](https://github.com/adityamishras/Calender/assets/136791974/51dc512e-9ccc-4042-bddc-20f2e3c51f18)
+## 🔗 Social Media Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityamishras.github.io/pages)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/adityamishras)
+[![twitter](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@adityamishras)
